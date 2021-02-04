@@ -1,16 +1,16 @@
-### Hi there 👋
+![top](.\images\top.png)
 
-<!--
-**StellarFX/StellarFX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Short introduction
 
-Here are some ideas to get you started:
+##### My name is StellarFX ! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### I am an amateur developer, looking forward to pursue engineering studies.
+
+I am actively learning, and mainly using : 
+
+- JavaScript
+- Java
+
+## Fun facts :
+
+- :fr: I am French !
