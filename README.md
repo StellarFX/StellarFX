@@ -1,4 +1,4 @@
-![top](.\images\top.png)
+![top](./images/top.png)
 
 ## Short introduction
 
