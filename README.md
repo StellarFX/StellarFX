@@ -2,7 +2,7 @@
 
 ## Short introduction
 
-##### My name is StellarFX ! 
+### My name is StellarFX ! 
 
 I am an amateur developer, looking forward to pursue engineering studies.
 I am actively learning, and mainly using : 
