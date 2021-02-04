@@ -15,7 +15,7 @@ I am an amateur developer, looking forward to pursue informatic engineering stud
 
 - :fr: I am French!
 - 💻 I am currently creating my own Discord bot, the StellarBot.
-- I like graphism a lot, and created a lot of things. ![Here](https://www.deviantart.com/stellarfxytb) is my -kind of empty- DeviantArt profile.
+- 🎨 I like graphism a lot, and created a lot of things. [Here](https://www.deviantart.com/stellarfxytb) is my -kind of empty- DeviantArt profile.
 
 ## My works :
 
