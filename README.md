@@ -2,7 +2,7 @@
 
 ## Short introduction
 
-### My name is StellarFX ! 
+### My name is StellarFX! 
 
 I am an amateur developer, looking forward to pursue informatic engineering studies.
 
@@ -11,14 +11,19 @@ I am an amateur developer, looking forward to pursue informatic engineering stud
 - JavaScript
 - Java
 
-## About me :
+## About me:
 
 - :fr: I am French!
 - 💻 I am currently creating my own Discord bot, the StellarBot.
 - 🎨 I like graphism a lot, and created a lot of things. [Here](https://www.deviantart.com/stellarfxytb) is my -kind of empty- DeviantArt profile.
 
-## My works :
+## My works:
 
 Currently, every repository is in private. This category won't be empty soon!
+
+## Links:
+
+- 🌐 [My website](http://stellar-fx.ml)
+- 👓 My Discord: **! "StellarFX"#4980**
 
 ![bot](./images/bot1.png)
