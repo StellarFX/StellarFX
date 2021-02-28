@@ -24,6 +24,6 @@ Currently, every repository is in private. This category won't be empty soon!
 ## Links:
 
 - 🌐 [My website](http://stellar-fx.ml)
-- 👓 My Discord: **! "StellarFX"#4980**
+- 👓 My Discord: **! "StellarFX"#0001**
 
 ![bot](./images/bot1.png)
