@@ -1,4 +1,4 @@
-<img style="height:12.5rem; width:100%" src="./images/top1.png">
+<img style="height:12.5rem; width:100%" src="./images/top2.png">
 
 <h1 align='center'>Hey! 👋 <br/>I'm StellarFX 🌌</h1>
 <p align='center'>I am a computer science student who lives in <b>France</b>.</p>
@@ -11,7 +11,6 @@
 <br/>
 
 <h3 align='center'>⚒️ I am actively using...</h3>
-<br/>
 
 <p align='center'>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -26,9 +25,7 @@
 </p>
 
 
-<br/>
 <hr>
-<br/>
 
 <h3 align='center'>🧠 And currently learning...</h3>
 <p align='center'>
@@ -37,4 +34,4 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white"/>
 </p>
 
-<img style="height:12.5rem; width:100%" src="./images/bot1.png">
+<img style="height:12.5rem; width:100%" src="./images/bot2.png">
