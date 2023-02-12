@@ -3,7 +3,7 @@
 <h1 align='center'>Hey! 👋 <br/>I'm StellarFX 🌌</h1>
 <p align='center'>I am a computer science student who lives in <b>France</b>.</p>
 <p align='center'>
-    <a href='https://discord.com/users/108912248113664000'><img src="https://img.shields.io/badge/StellarFX%230429-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href='https://discord.com/users/108912248113664000'><img src="https://img.shields.io/badge/StellarFX%230426-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href=''><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
