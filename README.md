@@ -3,7 +3,7 @@
 <h1 align='center'>Hey! 👋 <br/>I'm StellarFX 🌌</h1>
 <p align='center'>I am a computer science student who lives in <b>France</b>.</p>
 <p align='center'>
-    <a href='https://discord.com/users/108912248113664000'><img src="https://img.shields.io/badge/StellarFX%230426-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href='https://discord.com/users/108912248113664000'><img src="https://img.shields.io/badge/stellarfx-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <hr>
@@ -14,7 +14,7 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
